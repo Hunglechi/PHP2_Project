@@ -1,0 +1,29 @@
+{
+    "Information": [
+        [
+            "adminHCM",
+            "123123123",
+            "Create new user",
+            "Search...",
+            "Staff Code",
+            "Full Name",
+            "Username",
+            "Joined Date",
+            "Type"
+        ]
+    ],
+    "DetailUser": [
+        [
+            "adminHCM",
+            "123123123",
+            "Staff Code",
+            "Full Name",
+            "Username",
+            "Date of Birth",
+            "Gender",
+            "Joined Date",
+            "Type",
+            "Location"
+        ]
+    ]
+}

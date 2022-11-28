@@ -1,0 +1,992 @@
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\testhost.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\testhost.exe
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\nunit.engine.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\nunit.engine.api.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\nunit.engine.core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\testcentric.engine.metadata.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\NunitDemo.deps.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\NunitDemo.runtimeconfig.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\NunitDemo.pdb
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\nunit.framework.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\WebDriver.Support.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\WebDriver.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.AssemblyReference.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\obj\Debug\net6.0\NunitDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\obj\Debug\net6.0\NunitDemo.AssemblyInfoInputs.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\obj\Debug\net6.0\NunitDemo.AssemblyInfo.cs
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.CoreCompileInputs.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.CopyComplete
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\obj\Debug\net6.0\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\obj\Debug\net6.0\refint\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\obj\Debug\net6.0\NunitDemo.pdb
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\obj\Debug\net6.0\NunitDemo.genruntimeconfig.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\obj\Debug\net6.0\ref\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\AngleSharp.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\WebDriverManager.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Configurations\appsettings.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\System.Text.Json.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\TestData\TestData.xlsx
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Dapper.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\System.Data.OleDb.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\DnsClient.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\ExtentReports.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.HostFiltering.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Html.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.HttpOverrides.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Runtime.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IIS.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\MongoDB.Bson.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\MongoDB.Driver.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\RazorEngine.NetCore.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\SharpCompress.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\System.IO.Pipelines.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\Hung\OneDrive\Documents\SeleniumTest\NunitDemo\NunitDemo\NunitDemo\bin\Debug\net6.0\TestData\TestData.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\testhost.exe
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\testhost.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\nunit.engine.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\nunit.engine.api.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\nunit.engine.core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\testcentric.engine.metadata.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Configurations\appsettings.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\TestData\TestData.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\NunitDemo.deps.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\NunitDemo.runtimeconfig.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\NunitDemo.pdb
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\AngleSharp.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Dapper.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\DnsClient.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ExtentReports.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.HostFiltering.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Html.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.HttpOverrides.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Runtime.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IIS.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\MongoDB.Bson.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\MongoDB.Driver.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\nunit.framework.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\RazorEngine.NetCore.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\WebDriver.Support.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\WebDriver.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\SharpCompress.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\System.Data.OleDb.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\System.IO.Pipelines.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\System.Text.Json.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\WebDriverManager.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.AssemblyReference.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\obj\Debug\net6.0\NunitDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\obj\Debug\net6.0\NunitDemo.AssemblyInfoInputs.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\obj\Debug\net6.0\NunitDemo.AssemblyInfo.cs
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.CoreCompileInputs.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.CopyComplete
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\obj\Debug\net6.0\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\obj\Debug\net6.0\refint\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\obj\Debug\net6.0\NunitDemo.pdb
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\obj\Debug\net6.0\NunitDemo.genruntimeconfig.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\obj\Debug\net6.0\ref\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\TestData\TestData.xlsx
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium\NunitDemo\bin\Debug\net6.0\TestData\Ronaldo.jpg
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\testhost.exe
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\testhost.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\nunit.engine.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\nunit.engine.api.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\nunit.engine.core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\testcentric.engine.metadata.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Configurations\appsettings.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\TestData\Ronaldo.jpg
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\TestData\TestData.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\TestData\TestData.xlsx
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\NunitDemo.deps.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\NunitDemo.runtimeconfig.json
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\NunitDemo.pdb
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\AngleSharp.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Dapper.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\DnsClient.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ExtentReports.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.HostFiltering.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Html.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.HttpOverrides.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Runtime.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IIS.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\MongoDB.Bson.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\MongoDB.Driver.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\nunit.framework.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\RazorEngine.NetCore.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\WebDriver.Support.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\WebDriver.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\SharpCompress.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\System.Data.OleDb.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\System.IO.Pipelines.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\System.Text.Json.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\WebDriverManager.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.AssemblyReference.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\obj\Debug\net6.0\NunitDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\obj\Debug\net6.0\NunitDemo.AssemblyInfoInputs.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\obj\Debug\net6.0\NunitDemo.AssemblyInfo.cs
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.CoreCompileInputs.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.CopyComplete
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\obj\Debug\net6.0\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\obj\Debug\net6.0\refint\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\obj\Debug\net6.0\NunitDemo.pdb
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\obj\Debug\net6.0\NunitDemo.genruntimeconfig.cache
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\obj\Debug\net6.0\ref\NunitDemo.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\FluentAssertions.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\Namotion.Reflection.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\NJsonSchema.dll
+c:\Users\Hung\OneDrive\Documents\SeleniumTest\FinalSelenium - Copy\NunitDemo\bin\Debug\net6.0\RestSharp.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\testhost.exe
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\testhost.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\nunit.engine.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\nunit.engine.api.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\nunit.engine.core.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\testcentric.engine.metadata.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Configurations\appsettings.json
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\TestData\TestData.json
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\NunitDemo.deps.json
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\NunitDemo.runtimeconfig.json
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\NunitDemo.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\NunitDemo.pdb
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\AngleSharp.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Dapper.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\DnsClient.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ExtentReports.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\FluentAssertions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.HostFiltering.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Html.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.HttpOverrides.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Runtime.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IIS.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\MongoDB.Bson.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\MongoDB.Driver.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Namotion.Reflection.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\NJsonSchema.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\nunit.framework.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\RazorEngine.NetCore.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\RestSharp.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\WebDriver.Support.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\WebDriver.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\SharpCompress.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\System.Data.OleDb.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\System.IO.Pipelines.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\System.Text.Json.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\WebDriverManager.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+c:\Users\Hung\Downloads\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\Hung\Downloads\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.AssemblyReference.cache
+c:\Users\Hung\Downloads\NunitDemo\obj\Debug\net6.0\NunitDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Hung\Downloads\NunitDemo\obj\Debug\net6.0\NunitDemo.AssemblyInfoInputs.cache
+c:\Users\Hung\Downloads\NunitDemo\obj\Debug\net6.0\NunitDemo.AssemblyInfo.cs
+c:\Users\Hung\Downloads\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.CoreCompileInputs.cache
+c:\Users\Hung\Downloads\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.CopyComplete
+c:\Users\Hung\Downloads\NunitDemo\obj\Debug\net6.0\NunitDemo.dll
+c:\Users\Hung\Downloads\NunitDemo\obj\Debug\net6.0\refint\NunitDemo.dll
+c:\Users\Hung\Downloads\NunitDemo\obj\Debug\net6.0\NunitDemo.pdb
+c:\Users\Hung\Downloads\NunitDemo\obj\Debug\net6.0\NunitDemo.genruntimeconfig.cache
+c:\Users\Hung\Downloads\NunitDemo\obj\Debug\net6.0\ref\NunitDemo.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\testhost.exe
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\testhost.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\nunit.engine.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\nunit.engine.api.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\nunit.engine.core.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\testcentric.engine.metadata.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Configurations\appsettings.json
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\TestData\TestData.json
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\NunitDemo.deps.json
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\NunitDemo.runtimeconfig.json
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\NunitDemo.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\NunitDemo.pdb
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\AngleSharp.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Dapper.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\DnsClient.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ExtentReports.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\FluentAssertions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.HostFiltering.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Html.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.HttpOverrides.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Runtime.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IIS.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\MongoDB.Bson.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\MongoDB.Driver.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Namotion.Reflection.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\NJsonSchema.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\nunit.framework.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\RazorEngine.NetCore.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\RestSharp.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\WebDriver.Support.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\WebDriver.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\SharpCompress.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\System.Data.OleDb.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\System.IO.Pipelines.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\System.Text.Json.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\WebDriverManager.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+c:\Users\Hung\Music\NunitDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\Hung\Music\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.AssemblyReference.cache
+c:\Users\Hung\Music\NunitDemo\obj\Debug\net6.0\NunitDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Hung\Music\NunitDemo\obj\Debug\net6.0\NunitDemo.AssemblyInfoInputs.cache
+c:\Users\Hung\Music\NunitDemo\obj\Debug\net6.0\NunitDemo.AssemblyInfo.cs
+c:\Users\Hung\Music\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.CoreCompileInputs.cache
+c:\Users\Hung\Music\NunitDemo\obj\Debug\net6.0\NunitDemo.csproj.CopyComplete
+c:\Users\Hung\Music\NunitDemo\obj\Debug\net6.0\NunitDemo.dll
+c:\Users\Hung\Music\NunitDemo\obj\Debug\net6.0\refint\NunitDemo.dll
+c:\Users\Hung\Music\NunitDemo\obj\Debug\net6.0\NunitDemo.pdb
+c:\Users\Hung\Music\NunitDemo\obj\Debug\net6.0\NunitDemo.genruntimeconfig.cache
+c:\Users\Hung\Music\NunitDemo\obj\Debug\net6.0\ref\NunitDemo.dll
